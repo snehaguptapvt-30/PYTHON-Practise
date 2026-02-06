@@ -7,4 +7,3 @@ print(len(final_str)) #34
 ch = str1[4]
 print(ch) #A
 print(str1[1:5]) #NEHA
-print(str1[-5:]) # GUPTA
