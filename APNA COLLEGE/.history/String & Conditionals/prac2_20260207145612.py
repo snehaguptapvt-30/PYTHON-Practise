@@ -1,0 +1,1 @@
+str = "Hi $ I'm the $ symbol. 1 $  = 90rs "
